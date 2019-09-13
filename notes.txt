@@ -1,0 +1,5 @@
+https://www.robinwieruch.de/graphql-apollo-client-tutorial
+https://stackoverflow.com/questions/50197269/read-data-from-cache-graphql-apollo-2-0
+
+
+https://codeburst.io/useful-javascript-array-and-object-methods-6c7971d93230
